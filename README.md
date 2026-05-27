@@ -1,14 +1,14 @@
-# 📦 Catálogo Django (Atividade Extra) Aluno : Alan Santos
+# Catálogo Django (Atividade Extra) Aluno : Alan Santos
 
 Uma aplicação web desenvolvida em Python utilizando o framework Django para o gerenciamento e exibição de um catálogo de itens/produtos.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Siga os passos abaixo para configurar o ambiente local e rodar a aplicação na sua máquina.
 
-### 📋 Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
 * **Python 3.10 ou superior**
@@ -17,7 +17,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 ---
 
-### 🔧 Passo a Passo para Instalação e Configuração
+### Passo a Passo para Instalação e Configuração
 
 **1. Clonar o repositório:**
 Abra o terminal (de preferência o terminal do WSL/Ubuntu) e clone o projeto
